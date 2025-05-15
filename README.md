@@ -133,33 +133,4 @@ sentiment-analysis/
 └── README.md
 ```
 
-## Performance
 
-The model achieves the following performance metrics on the standard benchmark datasets:
-
-| Model Type | Accuracy | Precision | Recall | F1 Score |
-|------------|----------|-----------|--------|----------|
-| BERT-base  | 92.3%    | 91.8%     | 92.5%  | 92.1%    |
-| RNN (LSTM) | 88.7%    | 88.2%     | 89.1%  | 88.6%    |
-| Traditional| 85.3%    | 84.9%     | 85.5%  | 85.2%    |
-
-## License
-
-MIT License - see the LICENSE file for details.
-
-## Citation
-
-If you use this project in your research or work, please cite:
-
-```
-@software{sentiment_analysis_api,
-  author = {Your Name},
-  title = {Sentiment Analysis API},
-  year = {2023},
-  url = {https://github.com/yourusername/sentiment-analysis}
-}
-```
-
-## Contact
-
-For questions or collaborations, please contact [your-email@example.com](mailto:your-email@example.com). 
