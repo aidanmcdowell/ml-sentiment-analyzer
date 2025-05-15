@@ -1,9 +1,5 @@
 # Sentiment Analysis API
 
-A sophisticated machine learning-based sentiment analysis tool for analyzing text data from various sources, built with Python, scikit-learn, and FastAPI.
-
-![Sentiment Analysis Demo](demo.png)
-
 ## Overview
 
 This project implements a state-of-the-art sentiment analysis model that classifies text into positive, negative, or neutral sentiment categories. It includes both a training pipeline for the model and a RESTful API for real-time sentiment analysis.
